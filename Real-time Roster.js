@@ -5,7 +5,9 @@
   <title>CTF real-time roster</title>
  </head>
  
- <body>
+<body>
   <canvas id="Portrait_1" width="480" height="600">
   </canvas>
- </body>
+</body>
+
+</html>
